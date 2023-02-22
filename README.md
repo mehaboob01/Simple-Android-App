@@ -3,7 +3,7 @@ Simple Android App w/ Source Code - Android Studio app example. Sample project w
 
 # simple.app
 
-Simple Android App UI: Hello World!
+Simple Android App UI: Hello World!!
 
 #keystore
 
